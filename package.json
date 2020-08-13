@@ -1,0 +1,10 @@
+{
+  "name": "test-jsmart",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsmart": "^3.1.0"
+  }
+}
