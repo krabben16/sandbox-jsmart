@@ -1,2 +1,6 @@
 # test-jsmart
-jsmartの動作を確認するためのリポジトリ
+
+```shell
+npm i
+npm run dev
+```
